@@ -92,10 +92,7 @@ body {
 .cover {
   padding: 0 1.5rem;
 }
-.cover .btn-lg {
-  padding: .75rem 1.25rem;
-  font-weight: 700;
-}
+
 
 
 /*
@@ -103,4 +100,28 @@ body {
  */
 .mastfoot {
   color: rgba(255, 255, 255, .5);
+}
+
+
+
+.btn-override{
+  padding: 2px 8px 2px 8px;;
+  margin-bottom: 4px;
+  margin-right: 3px;
+  border: 1px solid grey;
+}
+
+.btn-override:hover{
+  border: 1px solid grey;
+  color: white;
+  background-color: #484848;
+  border-color: lightgray;
+}
+
+.icon-style{
+  height: 150px;
+}
+
+.cover-heading{
+  margin-bottom: 0px;
 }
