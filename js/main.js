@@ -80,25 +80,25 @@ function changeIcon() {
     // var img1 = "<img src='/images/";
     // var img2 = ".png' class='icon-style'></img>"
     case "Detail: Drizzle":
-      document.getElementById("weatherIcon").innerHTML = "<img src='/images/drizzle.png' class='icon-style'></img>";
+      document.getElementById("weatherIcon").innerHTML = "<img src='images/drizzle.png' class='icon-style'></img>";
       break;
     case "Detail: Clouds":
-      document.getElementById("weatherIcon").innerHTML = "<img src='/images/cloudy.png' class='icon-style'></img>";
+      document.getElementById("weatherIcon").innerHTML = "<img src='images/cloudy.png' class='icon-style'></img>";
       break;
     case "Detail: Rain":
-      document.getElementById("weatherIcon").innerHTML = "<img src='/images/rainy.png' class='icon-style'></img>";
+      document.getElementById("weatherIcon").innerHTML = "<img src='images/rainy.png' class='icon-style'></img>";
       break;
     case "Detail: Snow":
-      document.getElementById("weatherIcon").innerHTML = "<img src='/images/snowy.png' class='icon-style'></img>";
+      document.getElementById("weatherIcon").innerHTML = "<img src='images/snowy.png' class='icon-style'></img>";
       break;
     case "Detail: Clear":
-      document.getElementById("weatherIcon").innerHTML = "<img src='/images/sunny.png' class='icon-style'></img>";
+      document.getElementById("weatherIcon").innerHTML = "<img src='images/sunny.png' class='icon-style'></img>";
       break;
     case "Detail: Thunderstorm":
-      document.getElementById("weatherIcon").innerHTML = "<img src='/images/storm.png' class='icon-style'></img>";
+      document.getElementById("weatherIcon").innerHTML = "<img src='images/storm.png' class='icon-style'></img>";
       break;
     case "Detail: Mist":
-      document.getElementById("weatherIcon").innerHTML = "<img src='/images/mist.png' class='icon-style'></img>";
+      document.getElementById("weatherIcon").innerHTML = "<img src='images/mist.png' class='icon-style'></img>";
       break;
 
     }
